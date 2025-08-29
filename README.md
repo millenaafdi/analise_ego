@@ -1,0 +1,1 @@
+# Egograma & Triângulo Dramático
